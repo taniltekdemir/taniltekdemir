@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on  Kolaysoft Teknoloji
+- 🔭 I’m currently student on  TalentHub Java Bootcamp at n11.com
+- 🌱 I’m currently learning Java Spring and React.js
+- 📫 How to reach me: taniltekdemir@gmail.com
 <!--
 **taniltekdemir/taniltekdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
